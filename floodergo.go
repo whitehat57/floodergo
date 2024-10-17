@@ -47,7 +47,7 @@ func displayBanner() {
     | | | | |_| | |_| | (_| |___) | |   
     |_| |_|\___/ \___/ \__,_|____/|_|   
                                      
-    ReCoded by d57 x chocho
+    ReCoded by chocho
     Fl00d3r v2.0
     ********************
 `
